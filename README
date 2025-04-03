@@ -1,0 +1,21 @@
+# TESTING RENTRI Check – Guida Interattiva per le Imprese Edili
+
+Questa Web App, sviluppata da **ANCE Piemonte Valle d’Aosta**, aiuta le imprese edili a comprendere i propri obblighi in materia di iscrizione al **RENTRI – Registro Elettronico Nazionale per la Tracciabilità dei Rifiuti**, secondo quanto previsto dal D.M. 59/2023.
+
+---
+
+## 🧭 Funzionalità
+
+- Verifica automatica degli **obblighi di iscrizione**
+- Calcolo dei **costi di adesione** in base al numero di dipendenti e unità locali
+- **Scheda PDF personalizzata** con riepilogo dei costi
+- Sezione informativa su **FIR e Registro C/S**
+- Navigazione semplice tramite **menu laterale**
+
+---
+
+## 🚀 Come avviare l'app
+
+### 1. Installa Streamlit (se non lo hai già)
+```bash
+pip install streamlit fpdf
